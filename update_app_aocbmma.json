@@ -1,6 +1,6 @@
 {
-    "android":"https://play.google.com/store/apps/details?id=com.ssp.cbmma.digital",
-    "ios":"https://apps.apple.com/br/app/praia-segura-slz/id1633437221?platform=iphone",
+    "android":"https://play.google.com/store/apps/details?id=com.aocbmma",
+    "ios":"https://apps.apple.com/br/app/aocbmma/id1660832693",
     "version":"1.0.0",
     "notes": ["Correções no visual do app","Acesso por biometria digital", "Funcionalidade Votação", "Incorporação do push notification"]
 }
