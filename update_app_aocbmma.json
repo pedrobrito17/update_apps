@@ -1,6 +1,6 @@
 {
     "android":"market://details?id=com.aocbmma",
     "ios":"https://apps.apple.com/br/app/aocbmma/id1660832693",
-    "version":"1.3.8",
-    "notes": ["Revisão das reservas e ajustes nos convênios"]
+    "version":"1.3.9",
+    "notes": ["Atualização do sdk"]
 }
