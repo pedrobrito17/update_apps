@@ -1,0 +1,6 @@
+{
+    "android":"market://details?id=com.aocbmma",
+    "ios":"https://apps.apple.com/br/app/aocbmma/id1660832693",
+    "version":"1.1.1",
+    "notes": ["Atualização do sdk"]
+}
