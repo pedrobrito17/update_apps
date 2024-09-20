@@ -1,6 +1,6 @@
 {
     "android":"market://details?id=com.licitare.simgescola",
     "ios":"https://apps.apple.com/br/app/simgescola/id6621184004",
-    "version":"1.1.1",
+    "version":"1.1.2",
     "notes": ["Resolução de bugs"]
 }
