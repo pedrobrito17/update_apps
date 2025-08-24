@@ -1,6 +1,6 @@
 {
     "android":"market://details?id=com.aocbmma",
     "ios":"https://apps.apple.com/br/app/aocbmma/id1660832693",
-    "version":"1.4.2",
+    "version":"1.4.1",
     "notes": ["Pagamento por pix via app"]
 }
