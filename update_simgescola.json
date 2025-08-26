@@ -3,6 +3,6 @@
     "ios":"https://apps.apple.com/br/app/simgescola/id6621184004",
     "version":"2.0.1",
     "version_android":"2.0.1",
-    "version_ios":"2.0.1",
-    "notes": ["Novo layout", "Implementação do acessos às escolas públicas", "Correção de bugs"]
+    "version_ios":"2.0.2",
+    "notes": ["Correção de bugs", "Atualizações importantes"]
 }
