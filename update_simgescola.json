@@ -2,7 +2,7 @@
     "android":"market://details?id=com.licitare.simgescola",
     "ios":"https://apps.apple.com/br/app/simgescola/id6621184004",
     "version":"2.0.4",
-    "version_android":"2.0.7",
+    "version_android":"2.0.8",
     "version_ios":"2.0.4",
     "notes": ["Correção de bugs"]
 }
