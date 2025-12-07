@@ -1,6 +1,6 @@
 {
-    "android":"market://details?id=com.circulo-2-de-julho",
+    "android":"market://details?id=com.circulo_2_de_julho",
     "ios":"https://apps.apple.com/br/app/circulo-2-de-julho/id1660832693",
-    "version":"1.0.1",
+    "version":"1.0.3",
     "notes": ["Início do app"]
 }
