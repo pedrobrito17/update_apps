@@ -3,6 +3,6 @@
     "ios":"https://apps.apple.com/br/app/simgescola/id6621184004",
     "version":"2.0.8",
     "version_android":"2.0.8",
-    "version_ios":"2.0.8",
-    "notes": ["Correção de bugs"]
+    "version_ios":"2.0.10",
+    "notes": ["Correção de bugs","Atualização do novo chat","Correção na troca de senha e dados"]
 }
