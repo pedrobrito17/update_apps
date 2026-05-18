@@ -4,5 +4,5 @@
     "version":"2.0.10",
     "version_android":"2.0.10",
     "version_ios":"2.0.10",
-    "notes": ["Correção de bugs","Atualização do novo chat","Correção na troca de senha e dados"]
+    "notes": ["Atualização do layout para melhor usabilidade", "Correção de bugs","Atualização de anexo no chat","Correção de bug no calendário"]
 }
