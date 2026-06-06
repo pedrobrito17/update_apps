@@ -2,7 +2,7 @@
     "android":"market://details?id=com.licitare.simgescola",
     "ios":"https://apps.apple.com/br/app/simgescola/id6621184004",
     "version":"2.2.1",
-    "version_android":"2.2.1",
+    "version_android":"2.2.2",
     "version_ios":"2.2.1",
-    "notes": ["Atualização do layout para melhor usabilidade", "Correção de bugs","Atualização de anexo no chat","Correção de bug no calendário"]
+    "notes": ["Disponibilizado relatório descritivo para professor e funcionário", "Disponibilizado relatório da turma pra professor"]
 }
