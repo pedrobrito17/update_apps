@@ -3,6 +3,6 @@
     "ios":"https://apps.apple.com/br/app/simgescola/id6621184004",
     "version":"2.2.3",
     "version_android":"2.2.3",
-    "version_ios":"2.2.3",
-    "notes": ["Correção de bugs no cadastro de planejamentos, atualização no login, exibição de documentos recusados para o professor e atualização interna"]
+    "version_ios":"2.2.4",
+    "notes": ["Helpdesk no app. O usuário pode abrir chamado com o suporte da Licitare diretamente do smartphone"]
 }
