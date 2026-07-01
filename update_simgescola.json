@@ -1,8 +1,8 @@
 {
     "android":"market://details?id=com.licitare.simgescola",
     "ios":"https://apps.apple.com/br/app/simgescola/id6621184004",
-    "version":"2.2.3",
-    "version_android":"2.2.3",
+    "version":"2.2.4",
+    "version_android":"2.2.4",
     "version_ios":"2.2.4",
     "notes": ["Helpdesk no app. O usuário pode abrir chamado com o suporte da Licitare diretamente do smartphone"]
 }
