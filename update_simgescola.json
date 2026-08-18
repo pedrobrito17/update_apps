@@ -3,6 +3,6 @@
     "ios":"https://apps.apple.com/br/app/simgescola/id6621184004",
     "version":"2.3.2",
     "version_android":"2.3.2",
-    "version_ios":"2.3.2",
-    "notes": ["Atualizado app do funcionário, correção de bug no planejamento de turmas do ensino infantil, novo módulo de eventos e sincronização das tarefas offline das turmas de atendimento especializado e atividades complementares."]
+    "version_ios":"2.3.3",
+    "notes": ["Correção de bugs e novo módulo de transporte escolar."]
 }
