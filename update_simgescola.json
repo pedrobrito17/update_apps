@@ -3,6 +3,6 @@
     "ios":"https://apps.apple.com/br/app/simgescola/id6621184004",
     "version":"2.3.3",
     "version_android":"2.3.3",
-    "version_ios":"2.3.3",
-    "notes": ["Correção de bugs e novo módulo de transporte escolar."]
+    "version_ios":"2.3.4",
+    "notes": ["Correção de bugs e otimização dos dados do professor."]
 }
