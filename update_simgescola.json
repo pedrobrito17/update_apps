@@ -2,7 +2,13 @@
     "android":"market://details?id=com.licitare.simgescola",
     "ios":"https://apps.apple.com/br/app/simgescola/id6621184004",
     "version":"2.3.5",
-    "version_android":"2.3.5",
+    "version_android":"2.3.6",
     "version_ios":"2.3.5",
-    "notes": ["Correção de bugs e otimização dos dados do professor."]
+    "notes": [
+        "Frequência organizada por turno e gestor.",
+        "Consulta e aprovação de faltas justificadas dos estudantes.",
+        "Registro offline com aulas previstas para o dia.",
+        "Relatórios semanais e mensais para escolas privadas.",
+        "Melhorias na gestão, acessibilidade e estabilidade do app."
+      ]
 }
